@@ -2,14 +2,7 @@ import React from 'react'
 import {
   Box,
   Center,
-  Heading,
-  Text,
-  Stack,
-  Avatar,
   useColorModeValue,
-  Select,
-  Input,
-  Divider 
 } from '@chakra-ui/react';
 
 const Wapper = (props) => {
